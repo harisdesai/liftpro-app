@@ -1,1 +1,0 @@
-# liftpro-app
